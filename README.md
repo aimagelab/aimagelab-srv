@@ -6,6 +6,3 @@ This repository contains wiki and tutorials for the AImageLab computing platform
 
 * Go to the [wiki](../../wiki) section for manuals and tutorials
 * Fire [issues](../../issues) if you encounter any problem
-
-#### Emergency contacts
-* Lorenzo Baraldi: [e-mail](mailto:lorenzo.baraldi@unimore.it), phone: +393488634023
